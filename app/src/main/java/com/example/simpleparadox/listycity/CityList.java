@@ -79,6 +79,6 @@ public class CityList {
     }
 
     public int countOneMore(){
-        return -1;
+        return cities.size() + 1;
     }
 }
